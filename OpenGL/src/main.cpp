@@ -151,6 +151,3 @@ void framebuffer_size_callback(GLFWwindow* window, int width, int height)
 	glViewport(0, 0, width, height);
 }
 
-
-
-//https://www.pornhub.com/view_video.php?viewkey=66ec7beb95c5e
